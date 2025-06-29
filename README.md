@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 LinkedIn Sourcing Agent - Synapse Challenge
 
 An autonomous AI agent that sources LinkedIn profiles at scale, scores candidates using a sophisticated fit score algorithm, and generates personalized outreach messages.
@@ -78,3 +79,7 @@ Input Job → Search LinkedIn → Extract Profiles → Score Fit → Generate Me
 ## 📝 License
 
 MIT License - Feel free to use this for your own projects! 
+=======
+# Linkedin_Profile_Sourcing
+An AI agent that sources profiles from linkedin to help the Recruiting team
+>>>>>>> 2db580d1433b202b1b24ab0a6fe612ea85aefea8
